@@ -1,0 +1,267 @@
+// !$*UTF8*$!
+{
+	11C4A830137186F900005747 /* GravatarImage */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GravatarImage;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	11C4A83D1371871700005747 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	11C4A83E1371871700005747 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	11C4A83F1371872D00005747 /* Gravatar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 407}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 368}";
+		};
+	};
+	11C4A8401371872D00005747 /* Gravatar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 364}}";
+			sepNavSelRange = "{427, 0}";
+			sepNavVisRange = "{170, 426}";
+		};
+	};
+	11C4A842137188D900005747 /* NSString+MD5.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 407}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	11C4A843137188D900005747 /* NSString+MD5.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 622}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 593}";
+			sepNavWindowFrame = "{{15, 42}, {1024, 736}}";
+		};
+	};
+	11C4A86813718A1700005747 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GravatarImage-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tibo/Desktop/GravatarImage/GravatarImage-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	11C4A8A413718F0300005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11C4A843137188D900005747 /* NSString+MD5.m */;
+		name = "NSString+MD5.m: 16";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	11C4A8AE1371908900005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 10";
+		rLen = 0;
+		rLoc = 202;
+		rType = 0;
+		vrLen = 268;
+		vrLoc = 0;
+	};
+	11C4A8D013719B5500005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11C4A842137188D900005747 /* NSString+MD5.h */;
+		name = "NSString+MD5.h: 14";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	11C4A8D313719B5500005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11C4A83F1371872D00005747 /* Gravatar.h */;
+		name = "Gravatar.h: 16";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 0;
+	};
+	11C4A8DB13719C5100005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 11C4A8401371872D00005747 /* Gravatar.m */;
+		name = "Gravatar.m: 19";
+		rLen = 0;
+		rLoc = 427;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	11C4A8DC13719C5100005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GravatarImageAppDelegate.m */;
+		name = "GravatarImageAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 0;
+	};
+	11C4A8DD13719C5100005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GravatarImageAppDelegate.h */;
+		name = "GravatarImageAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 0;
+	};
+	11C4A8E713719CA400005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 85";
+		rLen = 0;
+		rLoc = 2196;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 2223;
+	};
+	11C4A8EE13719CFC00005747 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 24";
+		rLen = 0;
+		rLoc = 528;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* GravatarImageAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 407}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 491}";
+			sepNavWindowFrame = "{{15, 42}, {1024, 736}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GravatarImageAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 783}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GravatarImage */ = {
+		activeExec = 0;
+		executables = (
+			11C4A830137186F900005747 /* GravatarImage */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 384}}";
+			sepNavSelRange = "{202, 0}";
+			sepNavVisRange = "{0, 268}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3721, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3772, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3822, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4518}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 2405}}";
+			sepNavSelRange = "{528, 0}";
+			sepNavVisRange = "{0, 620}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 11C4A830137186F900005747 /* GravatarImage */;
+		activeSDKPreference = iphonesimulator4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GravatarImage */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GravatarImage */,
+		);
+		codeSenseManager = 11C4A83E1371871700005747 /* Code sense */;
+		executables = (
+			11C4A830137186F900005747 /* GravatarImage */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326207225;
+			PBXWorkspaceStateSaveDate = 326207225;
+		};
+		perUserProjectItems = {
+			11C4A86813718A1700005747 /* PlistBookmark */ = 11C4A86813718A1700005747 /* PlistBookmark */;
+			11C4A8A413718F0300005747 /* PBXTextBookmark */ = 11C4A8A413718F0300005747 /* PBXTextBookmark */;
+			11C4A8AE1371908900005747 /* PBXTextBookmark */ = 11C4A8AE1371908900005747 /* PBXTextBookmark */;
+			11C4A8D013719B5500005747 /* PBXTextBookmark */ = 11C4A8D013719B5500005747 /* PBXTextBookmark */;
+			11C4A8D313719B5500005747 /* PBXTextBookmark */ = 11C4A8D313719B5500005747 /* PBXTextBookmark */;
+			11C4A8DB13719C5100005747 /* PBXTextBookmark */ = 11C4A8DB13719C5100005747 /* PBXTextBookmark */;
+			11C4A8DC13719C5100005747 /* PBXTextBookmark */ = 11C4A8DC13719C5100005747 /* PBXTextBookmark */;
+			11C4A8DD13719C5100005747 /* PBXTextBookmark */ = 11C4A8DD13719C5100005747 /* PBXTextBookmark */;
+			11C4A8E713719CA400005747 /* PBXTextBookmark */ = 11C4A8E713719CA400005747 /* PBXTextBookmark */;
+			11C4A8EE13719CFC00005747 /* PBXTextBookmark */ = 11C4A8EE13719CFC00005747 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 11C4A83D1371871700005747 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
